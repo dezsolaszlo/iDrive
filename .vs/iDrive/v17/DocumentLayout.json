@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\GitHub\\iDrive\\SynologyDrive\\iDrive\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA595F6-5A5F-EEAF-9A8F-2F0FF9646321}|Assembly-CSharp.csproj|e:\\github\\idrive\\synologydrive\\idrive\\assets\\scripts\\carcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AA595F6-5A5F-EEAF-9A8F-2F0FF9646321}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\carcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA595F6-5A5F-EEAF-9A8F-2F0FF9646321}|Assembly-CSharp.csproj|e:\\github\\idrive\\synologydrive\\idrive\\assets\\scripts\\playsoundonhit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AA595F6-5A5F-EEAF-9A8F-2F0FF9646321}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playsoundonhit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AA595F6-5A5F-EEAF-9A8F-2F0FF9646321}|Assembly-CSharp.csproj|e:\\github\\idrive\\synologydrive\\idrive\\assets\\scripts\\racemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AA595F6-5A5F-EEAF-9A8F-2F0FF9646321}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\racemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarControl.cs",
+              "DocumentMoniker": "E:\\GitHub\\iDrive\\SynologyDrive\\iDrive\\Assets\\Scripts\\CarControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CarControl.cs",
+              "ToolTip": "E:\\GitHub\\iDrive\\SynologyDrive\\iDrive\\Assets\\Scripts\\CarControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CarControl.cs",
+              "ViewState": "AgIAAOkAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T21:56:40.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlaySoundOnHit.cs",
+              "DocumentMoniker": "E:\\GitHub\\iDrive\\SynologyDrive\\iDrive\\Assets\\Scripts\\PlaySoundOnHit.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlaySoundOnHit.cs",
+              "ToolTip": "E:\\GitHub\\iDrive\\SynologyDrive\\iDrive\\Assets\\Scripts\\PlaySoundOnHit.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlaySoundOnHit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T21:56:35.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RaceManager.cs",
+              "DocumentMoniker": "E:\\GitHub\\iDrive\\SynologyDrive\\iDrive\\Assets\\Scripts\\RaceManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RaceManager.cs",
+              "ToolTip": "E:\\GitHub\\iDrive\\SynologyDrive\\iDrive\\Assets\\Scripts\\RaceManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RaceManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T21:56:25.159Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
