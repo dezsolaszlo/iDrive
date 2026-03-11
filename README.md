@@ -125,4 +125,4 @@ Car control and AI are handled by a single `CarControl` component with an `isAI`
 
 ## 👤 Author
 
-**Dezső László** — [LinkedIn](https://www.linkedin.com/in/lászló-dezső-39a676255/) · [GitHub](https://github.com/DLaszlo2003)
+**Dezső László** — [LinkedIn](https://www.linkedin.com/in/lászló-dezső-39a676255/) · [GitHub](https://github.com/dezsolaszlo)
