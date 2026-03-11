@@ -1,5 +1,4 @@
-*.mat linguist-detectable=false
-*.shader linguist-detectable=false
-*.hlsl linguist-detectable=false
+*.mat linguist-vendored=true
+*.shader linguist-vendored=true
 *.hlsl linguist-vendored=true
 *.cs linguist-language=C#
