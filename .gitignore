@@ -48,5 +48,5 @@ Desktop.ini
 # Crash reports
 sysinfo.txt
 
-# SynologyDrive NAS sync folder (not part of the Unity project)
-SynologyDrive/
+Assets/TextMesh Pro/
+Assets/_Udemy Racer Assets/
