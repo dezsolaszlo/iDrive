@@ -1,2 +1,2 @@
-Add-Content .gitattributes "*.mat linguist-detectable=false"
-Add-Content .gitattributes "*.shader linguist-detectable=false"
+*.mat linguist-detectable=false
+*.shader linguist-detectable=false
