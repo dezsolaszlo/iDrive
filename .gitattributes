@@ -1,4 +1,0 @@
-*.mat linguist-vendored=true
-*.shader linguist-vendored=true
-*.hlsl linguist-vendored=true
-*.cs linguist-language=C#
