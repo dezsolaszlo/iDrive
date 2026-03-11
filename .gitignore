@@ -8,13 +8,31 @@ Logs/
 UserSettings/
 MemoryCaptures/
 
+# Unity auto-generated IDE project files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.vc.db
+ExportedObj/
+
+# Unity upgrade logs
+UpgradeLog.htm
+UpgradeLog*.htm
+
 # Visual Studio / Rider cache
 .vs/
 .idea/
-*.suo
-*.user
 *.userosscache
-*.userprefs
 
 # OS files
 .DS_Store
